@@ -5,5 +5,5 @@ The goal of this console based application, PraSen Counter, was to count the num
 > To learn more about the project's working flow or the data structures implemented, Click [HERE](https://github.com/muhammadowaismushtaq/ParaSen-Counter/blob/99ba99f398f9eb33bfa907a9e29628df0bfd34a3/Project%20Report.pdf).
 
 ## Author
-[Muhammad Owais Mushtaq](https://github.com/muhammadowaismushtaq)
+[Muhammad Owais Mushtaq](https://www.linkedin.com/in/muhammadowaismushtaq)
 
